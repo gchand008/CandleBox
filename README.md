@@ -1,3 +1,3 @@
 # CandleBox
 
-Pass input and output files as arguments
+Pass input.txt and output.txt files as arguments
